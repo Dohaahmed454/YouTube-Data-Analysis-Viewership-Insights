@@ -52,9 +52,11 @@ The project includes data preprocessing, exploratory data analysis (EDA), visual
 
 ## 📈 Project Visualizations
 
+## 📈 Project Visualizations
+
 ### 1️⃣ Number of Videos per Category
 
-<img src="images/videos_per_category.png" width="700">
+![Videos per Category](images/videos_per_category.png.jpeg)
 
 This chart illustrates the distribution of videos across different YouTube categories.
 
@@ -62,11 +64,9 @@ This chart illustrates the distribution of videos across different YouTube categ
 
 ### 2️⃣ Likes vs Views
 
-<img src="images/likes_vs_views.png" width="700">
+![Likes vs Views](images/likes_vs_views.png.jpeg)
 
-This scatter plot shows the relationship between the number of likes and total views.
-
----
+This scatter plot shows the relationship between likes and total views.
 
 ## 📊 Key Findings
 
